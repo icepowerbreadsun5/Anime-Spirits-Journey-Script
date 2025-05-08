@@ -98,6 +98,4 @@ The **Anime Spirits Journey Script** is a comprehensive automation utility desig
 
 This script is **for educational and entertainment purposes only**. Use responsibly. Roblox’s anti-cheat system may detect automation, so always play ethically.
 
----
 
-Если нужно что-то добавить или изменить — скажи!
